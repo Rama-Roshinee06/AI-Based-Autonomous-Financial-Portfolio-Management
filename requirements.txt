@@ -1,0 +1,10 @@
+streamlit>=1.30
+numpy>=1.24
+pandas>=2.0
+matplotlib>=3.7  # optional (plots in the terminal version)
+yfinance>=0.2.40
+vaderSentiment>=3.3.2
+pytest>=7.0
+# optional REST API:
+fastapi>=0.110
+uvicorn>=0.29
